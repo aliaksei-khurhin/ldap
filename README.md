@@ -12,5 +12,3 @@
 5. Attempting to login as LDAP user after removing it from Linux group:
 ![Alt text](resource/linux-ldap2.jpg "scr5")
 
-Provision with puppet will be implemented in a day (puppet module and vagrantfile)
-
